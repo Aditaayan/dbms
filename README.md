@@ -143,8 +143,8 @@ A popular restaurant wants to manage *reservations, orders, and billing*.
 
 ---
 ### ER DIAGRAM SUBMISSION
-- Name: PRASANNA BALAJI B
-- Reg no: 212223060203
+- Name: ADITAAYAN.M
+- Reg no: 212223040006
 ---
 ##  Instructions for Students
 1. Complete *all three scenarios (A, B, C)*.  
